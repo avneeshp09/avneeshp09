@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Avneesh Pathak</h1>
 <h3 align="center">Aspiring Web Development</h3>
 
-- 🔭 I’m currently working on **Building Frontend project using HTML,CSS and JavaScript**
+- 🔭 I’m currently working on **Building frontend project using HTML,CSS and JavaScript**
 
 - 🌱 I’m currently learning **JavaScript, Backend Development and Python**
 
@@ -25,4 +25,3 @@
 
 💼 LinkedIn: https://www.linkedin.com/in/avneeshpathak09
 
-📧 Email: avneeshpandatt2005@gmail.com
