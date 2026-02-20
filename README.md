@@ -9,8 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [http://github.com/avneeshp09](http://github.com/avneeshp09)
 
-- 🌐 Portfolio: https://avneeshpathak-portfolio.netlify.app
-
+- 🌐 Portfolio: https://avneeshp.netlify.app
 - 💬 Ask me about **HTML,CSS,JavaScript**
 
 - 📫 How to reach me **avneeshpandatt2005@gmail.com**
